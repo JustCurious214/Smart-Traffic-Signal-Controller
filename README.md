@@ -4,14 +4,6 @@ A Verilog-based smart traffic signal controller designed to improve intersection
 
 ---
 
-## Features
-
-- 🚦 Dual traffic signal control for intersecting roads
-- 🚑 Emergency vehicle priority handling
-- 🚶 Intelligent pedestrian crossing control
-- 🔔 Pedestrian warning buzzer before signal transition
-- ⏱️ Time-based traffic light sequencing
-- 🧪 Complete simulation testbench with waveform generation
 
 ---
 
